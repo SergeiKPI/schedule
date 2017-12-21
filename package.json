@@ -1,0 +1,22 @@
+{
+  "name": "schedule",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SergeiKPI/schedule.git"
+  },
+  "author": "Sergei",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.4.5",
+    "express-handlebars": "^3.0.0"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
